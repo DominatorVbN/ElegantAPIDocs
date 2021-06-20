@@ -1,1 +1,10 @@
-^(documentation|tutorials)\/.*$ ElegantAPI.doccarchive/index.html
+/documentation* /ElegantAPI.doccarchive/index.html
+/tutorials* /ElegantAPI.doccarchive/index.html
+/css /ElegantAPI.doccarchive/css
+/js /ElegantAPI.doccarchive/js
+/data /ElegantAPI.doccarchive/data
+/images /ElegantAPI.doccarchive/images
+/downloads /ElegantAPI.doccarchive/downloads
+/favicon\.ico /ElegantAPI.doccarchive/favicon\.ico
+/img /ElegantAPI.doccarchive/img
+/theme-settings\.json /ElegantAPI.doccarchive/theme-settings\.json
