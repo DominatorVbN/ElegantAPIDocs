@@ -1,3 +1,2 @@
 RewriteEngine On
 RewriteRule ^(documentation|tutorials)\/.*$ YourPackage.doccarchive/index.html [L]
-RewriteRule ^(css|js|data|images|downloads|favicon\.ico|favicon\.svg|img|theme-settings\.json|videos)\/.*$ YourPackage.doccarchive/$0 [L]
