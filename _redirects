@@ -1,9 +1,3 @@
-/* ElegantAPI.doccarchive/index.html
-/css ElegantAPI.doccarchive/css
-/js ElegantAPI.doccarchive/js
-/data ElegantAPI.doccarchive/data
-/images ElegantAPI.doccarchive/images
-/downloads ElegantAPI.doccarchive/downloads
-/favicon\.ico ElegantAPI.doccarchive/favicon\.ico
-/img ElegantAPI.doccarchive/img
-/theme-settings\.json ElegantAPI.doccarchive/theme-settings\.json
+RewriteEngine On
+RewriteRule ^(documentation|tutorials)\/.*$ YourPackage.doccarchive/index.html [L]
+RewriteRule ^(css|js|data|images|downloads|favicon\.ico|favicon\.svg|img|theme-settings\.json|videos)\/.*$ YourPackage.doccarchive/$0 [L]
