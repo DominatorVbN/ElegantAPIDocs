@@ -1,1 +1,1 @@
-d^(documentation|tutorials)\/.*$ ElegantAPI.doccarchive/index.html
+^(documentation|tutorials)\/.*$ ElegantAPI.doccarchive/index.html
