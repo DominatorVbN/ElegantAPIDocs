@@ -1,11 +1,1 @@
-/* /ElegantAPI.doccarchive/index.html 200
-/documentation* /ElegantAPI.doccarchive/index.html
-/tutorials* /ElegantAPI.doccarchive/index.html
-/css/* /ElegantAPI.doccarchive/css/:splat
-/js/* /ElegantAPI.doccarchive/js/:splat
-/data/* /ElegantAPI.doccarchive/data/:splat
-/images/* /ElegantAPI.doccarchive/images/:splat
-/downloads/* /ElegantAPI.doccarchive/downloads/:splat
-/favicon\.ico /ElegantAPI.doccarchive/favicon\.ico
-/img/* /ElegantAPI.doccarchive/img/:splat
-/theme-settings\.json /ElegantAPI.doccarchive/theme-settings\.json
+/* /index.html 200
